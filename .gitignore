@@ -1,0 +1,15 @@
+livewire_app/.phpunit.cache
+livewire_app/node_modules
+livewire_app/public/build
+livewire_app/public/hot
+livewire_app/public/storage
+livewire_app/storage/*.key
+livewire_app/.phpunit.result.cache
+livewire_app/Homestead.json
+livewire_app/Homestead.yaml
+livewire_app/auth.json
+livewire_app/npm-debug.log
+livewire_app/yarn-error.log
+livewire_app/.fleet
+livewire_app/.idea
+.vscode

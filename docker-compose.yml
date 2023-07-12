@@ -1,0 +1,10 @@
+version: '2'
+
+services:
+  app:
+    container_name: livewire_app
+    image: giovanegurgel/livewire_app
+    ports:
+      - '8000:8000'
+    volumes:
+      - './livewire_app:/app'
